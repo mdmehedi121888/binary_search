@@ -1,0 +1,1 @@
+{"name":"Local: almost sorted array","url":"e:\\binary_search\\almost sorted array.cpp","tests":[{"id":1679618626526,"input":"5 4\n2 3 10 4 16\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\binary_search\\almost sorted array.cpp","group":"local","local":true}

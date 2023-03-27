@@ -1,0 +1,1 @@
+{"name":"Local: next alphabet element","url":"e:\\binary_search\\next alphabet element.cpp","tests":[{"id":1679619660661,"input":"3\na c f\nf","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\binary_search\\next alphabet element.cpp","group":"local","local":true}

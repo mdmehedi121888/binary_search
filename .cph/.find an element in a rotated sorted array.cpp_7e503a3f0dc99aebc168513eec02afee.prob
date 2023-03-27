@@ -1,0 +1,1 @@
+{"name":"Local: find an element in a rotated sorted array","url":"e:\\binary_search\\find an element in a rotated sorted array.cpp","tests":[{"id":1679618322851,"input":"5\n5 1 2 3 4\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\binary_search\\find an element in a rotated sorted array.cpp","group":"local","local":true}

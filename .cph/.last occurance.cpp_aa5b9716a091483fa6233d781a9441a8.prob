@@ -1,0 +1,1 @@
+{"name":"Local: last occurance","url":"e:\\binary_search\\last occurance.cpp","tests":[{"id":1679615696689,"input":"5\n1 1 2 2 4\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\binary_search\\last occurance.cpp","group":"local","local":true}

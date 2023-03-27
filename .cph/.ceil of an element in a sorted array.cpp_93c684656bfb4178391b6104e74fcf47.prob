@@ -1,0 +1,1 @@
+{"name":"Local: ceil of an element in a sorted array","url":"e:\\binary_search\\ceil of an element in a sorted array.cpp","tests":[{"id":1679619097518,"input":"9 13\n1 2 3 8 10 11 12 15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\binary_search\\ceil of an element in a sorted array.cpp","group":"local","local":true}

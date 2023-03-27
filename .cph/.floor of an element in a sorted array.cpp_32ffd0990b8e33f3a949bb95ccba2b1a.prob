@@ -1,0 +1,1 @@
+{"name":"Local: floor of an element in a sorted array","url":"e:\\binary_search\\floor of an element in a sorted array.cpp","tests":[{"id":1679619462081,"input":"6\n1 2 8 10 11 12\n15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\binary_search\\floor of an element in a sorted array.cpp","group":"local","local":true}

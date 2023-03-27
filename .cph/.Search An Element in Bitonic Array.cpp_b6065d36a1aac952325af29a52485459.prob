@@ -1,0 +1,1 @@
+{"name":"Local: Search An Element in Bitonic Array","url":"e:\\binary_search\\Search An Element in Bitonic Array.cpp","tests":[{"id":1679649806704,"input":"5\n1 2 10 7 5\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\binary_search\\Search An Element in Bitonic Array.cpp","group":"local","local":true}

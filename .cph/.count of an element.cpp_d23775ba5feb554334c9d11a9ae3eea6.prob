@@ -1,0 +1,1 @@
+{"name":"Local: count of an element","url":"e:\\binary_search\\count of an element.cpp","tests":[{"id":1679616008601,"input":"5\n1 1 2 2 4\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\binary_search\\count of an element.cpp","group":"local","local":true}
